@@ -4,6 +4,8 @@
  * @author Clarkware Consulting, Inc. 
  */
  
+/* patatamon es fuerte */
+
 public class Product {
 
 	private String _title;
