@@ -4,8 +4,7 @@
  * @author Clarkware Consulting, Inc. 
  */
  
-
-public class Product {
+/* patatamon es fuerte */sdfpublic class Product {
 /*Pues si que lo es*/
 	private String _title;
 	private double _price;
